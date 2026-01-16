@@ -1,4 +1,4 @@
 export class PaginationRequestDTO {
   page?: number;
-  limit?: number;
+  limit?: number; 
 }
